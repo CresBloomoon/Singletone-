@@ -5,6 +5,8 @@ VisualStudioVersion = 17.0.32126.317
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Singletoneテスト容易性", "Singletoneテスト容易性\Singletoneテスト容易性.csproj", "{69A93D44-8181-46D0-A57B-8C24E14CC6C7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Singletoneテスト容易性Tests", "Singletoneテスト容易性Tests\Singletoneテスト容易性Tests.csproj", "{0A239FC8-F667-49B6-9A78-9EADB3204087}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{69A93D44-8181-46D0-A57B-8C24E14CC6C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{69A93D44-8181-46D0-A57B-8C24E14CC6C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{69A93D44-8181-46D0-A57B-8C24E14CC6C7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A239FC8-F667-49B6-9A78-9EADB3204087}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A239FC8-F667-49B6-9A78-9EADB3204087}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A239FC8-F667-49B6-9A78-9EADB3204087}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A239FC8-F667-49B6-9A78-9EADB3204087}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
